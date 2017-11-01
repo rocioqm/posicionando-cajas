@@ -1,9 +1,3 @@
-# BANDERAS DISPLAY
+# POSICIONANDO CAJAS
 
-Es el primer caso práctico en el cuál se usa la display para poder cumplir los objetivos.
-
-Como primer paso se le digito la estructura que se necesitaba en el index.html.
-
-Luego se le asignó clases para poder trabajar mejor y reutilizamos una clase tres veces.
-
-Por último, usamos la herramienta ColorZilla para obtener los colores que se necesitaban para el trabajo.
+En este ejercicio seguimos particando positioning al crear dos cajas de multiples colores con divisiones de colores dentro de ella.
