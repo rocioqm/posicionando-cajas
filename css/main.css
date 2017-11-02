@@ -1,35 +1,24 @@
-.part1 {
-  background: #ffc107;
-
-}
-.text1 {
-  display: block;
-  height: 100px;
-  width: 50px;
-  margin: 10px 5px;
-  padding: 5px;
-}
-.part2 {
-  background: #2b2b2b;
+.square1 {
+  background-color: #FF0000;
+  position: absolute;
+  width: 250px;
+  height: 250px;
 }
 
-.text2 {
-  color:white;
-  display: block;
-  height: 100px;
-  width: 50px;
-  margin: 10px 5px;
-  padding: 5px;
+.square3 {
+  background-color: yellow;
+  position: relative;
+  width: 50%;
+  height: 50%;
+  left: 0px;
+  top: 0px;
 }
 
-.part3 {
-  background: #ffc107;
-}
-.text3 {
-  color: black;
-  display: block;
-  height: 100px;
-  width: 50px;
-  margin: 10px 5px;
-  padding: 5px;
+.square2 {
+  background-color: #800080;
+  position: relative;
+  width: 60%;
+  height: 60%;
+  left: 50px;
+  top: 50px;
 }
